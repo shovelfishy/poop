@@ -10,8 +10,7 @@ ports:
 vscode:
   extensions:
     - svelte.svelte-vscode
-
-    - github.github-vscode-theme
+    - GitHub.github-vscode-theme
 
 github:
   prebuilds:
